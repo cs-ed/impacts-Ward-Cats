@@ -1,6 +1,29 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course:
+
+Amazon Future Engineers partnering with Project STEM present **CS Python Fundamentals**, a course that is A-G accredited as a third year mathematics course.
+
+This course has been designed to offer an introduction to computer science. Students will learn the basics of computer programming along with the basics of computer science. The material emphasizes computational thinking and helps develop the ability to solve complex problems.
+
+This course covers gives a foundation in the tools used in computer science and prepares students for AP Computer Science Principles.
+
+No prior computer science knowledge or experience is necessary for this course. With the UC A-G application, the targeted students are juniors and seniors; but there may also be sophomores enrolled in the course.
+
+The course is broken into eleven units:
+1. Beginning in Computer Science
+2. Number Calculations and Data
+3. Making Decisions
+4. Repetition and Loops
+5. Programming in EarSketch
+6. Graphics
+7. Functions
+8. Arrays
+9. 2D Arrays
+10. Programming in EarSketch
+11. Internet
+
+There is an additional module, Exploring Careers in Computer Science, which would serve as a means of connecting the class and the impact of computing to the students.  
 
 ## Plan
 
