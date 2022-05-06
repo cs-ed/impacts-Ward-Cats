@@ -1,6 +1,6 @@
 # Impacts on Society
 
-Amazon Future Engineers, in partnership with Project STEM, presents CS Python Fundamentals, a course that is A-G accredited as a third year mathematics course.
+Amazon Future Engineers, in partnership with Project STEM, presents **CS Python Fundamentals**, a course that is A-G accredited as a third year mathematics course.
 
 This course has been designed to offer an introduction to computer science. Students will learn the basics of computer programming along with the basics of computer science. The material emphasizes computational thinking and helps develop the ability to solve complex problems.
 
