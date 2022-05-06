@@ -43,7 +43,7 @@ After each lesson, students will add to a portfolio that will be built over the 
 
 ### Assessment
 
-At the beginning of each of the careers we will investigate, I am looking for student participation. Students need to give the career some thought and provide a guess as to what connection (and/or how) to Computer Science.
+At the beginning of each of the careers we will investigate, I am looking for student participation. Students need to give the career some thought and provide a guess of the connection to Computer Science.
 
 At the end of each of the careers, students will reflect back on their original perspective and the learning that happened from the video and class discussion. This will be included into their portfolio which will be evaluated to see if students are participating in class, and documenting their learning and takeaways.
 
