@@ -1,14 +1,10 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course:
-
-Amazon Future Engineers partnering with Project STEM present **CS Python Fundamentals**, a course that is A-G accredited as a third year mathematics course.
+Amazon Future Engineers, in partnership with Project STEM, presents CS Python Fundamentals, a course that is A-G accredited as a third year mathematics course.
 
 This course has been designed to offer an introduction to computer science. Students will learn the basics of computer programming along with the basics of computer science. The material emphasizes computational thinking and helps develop the ability to solve complex problems.
 
-This course covers gives a foundation in the tools used in computer science and prepares students for AP Computer Science Principles.
-
-No prior computer science knowledge or experience is necessary for this course. With the UC A-G application, the targeted students are juniors and seniors; but there may also be sophomores enrolled in the course.
+This course covers gives a foundation in the tools used in computer science and prepares students for AP Computer Science Principles. No prior computer science knowledge or experience is necessary for this course. With the UC A-G application, the targeted students are juniors and seniors; but there may also be sophomores enrolled in the course.
 
 The course is broken into eleven units:
 1. Beginning in Computer Science
@@ -23,7 +19,7 @@ The course is broken into eleven units:
 10. Programming in EarSketch
 11. Internet
 
-There is an additional module, Exploring Careers in Computer Science, which would serve as a means of connecting the class and the impact of computing to the students.  
+As this course satisfies the third-year mathematics criteria, there is minimal attention paid to the impact of computing on society. To remedy this, there is an additional (partial) module, Exploring Careers in Computer Science, which currently consists of videos that attempts to showcase a variety of careers that make use of the knowledge acquired in the course. It is an optional unit that is presented as an optional end-of-course extra module that can fill time. The focus of this impact plan will consider how to enhance this module and intersperse it throughout the course, adding in considerations of the impacts of what is being learned; in terms of careers that make use of computer science and also more generally computer science’s impact on society.
 
 ## Plan
 
