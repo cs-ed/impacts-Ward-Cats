@@ -25,7 +25,11 @@ As this course satisfies the third-year mathematics criteria, there is minimal a
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+In this portion of the course, the twelfth [College and Career Readiness](https://www.cde.ca.gov/ci/ct/sf/documents/ctescrpflyer.pdf) standard will be focused on: *Understand the environmental, social, and economic impacts of decisions*.
+- Students will predict how computer science has impacted careers.
+- Students will explain how computer science has impacted careers and society.
+- Students will research and present about how computer science has affected an aspect of society.
+- Students will create a portfolio to compile their learning about the impact computer science has had on the world.
 
 ### Learning Activities
 
@@ -43,4 +47,6 @@ Describe how you plan to assess the learning objectives described above.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+By the end of the course, students will have created a portfolio serving as compilation of how computer science has impacted a wide variety of careers and how computer science has impacted society—looking at both the positive and negative aspects. Through video interviews and through their own research, students should see the diversity of people and professions that have been impacted by computing and computing’s impacts on society.
+
+The hope is that this exposure and adventure through discovering how widespread and impactful *on their own life* will inspire personal relevance in students; and to help them realize that they are fully capable of choosing to apply themselves to succeed in computer science.
