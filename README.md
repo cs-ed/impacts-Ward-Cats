@@ -19,7 +19,7 @@ The course is broken into eleven units:
 10. Programming in EarSketch
 11. Internet
 
-As this course satisfies the third-year mathematics criteria, there is minimal attention paid to the impact of computing on society. To remedy this, there is an additional (partial) module, Exploring Careers in Computer Science, which currently consists of videos that attempts to showcase a variety of careers that make use of the knowledge acquired in the course. It is an optional unit that is presented as an optional end-of-course extra module that can fill time. The focus of this impact plan will consider how to enhance this module and intersperse it throughout the course, adding in considerations of the impacts of what is being learned; in terms of careers that make use of computer science and also more generally computer science’s impact on society.
+As this course satisfies the third-year mathematics criteria, there is minimal attention paid to the impact of computing on society. To remedy this, there is an additional (partial) module, Exploring Careers in Computer Science, which currently consists of videos that attempt to showcase a variety of careers that make use of the knowledge acquired in the course. It is a minor unit that is presented as an optional end-of-course extra module that can fill time. The focus of this impact plan will consider how to enhance this module and intersperse it throughout the course, adding in considerations of the impacts of what is being learned; in terms of careers that make use of computer science and also more generally computer science’s impact on society.
 
 ## Plan
 
@@ -49,7 +49,7 @@ At the end of each of the careers, students will reflect back on their original 
 
 When students research an aspect of society and the connection to computer science, they will present their findings to their classmates. Their presentation will be assessed based upon accuracy, clarity, and showing their findings about how computer science has impacted that area of society.
 
-Their portfolio will be checked throughout the year and, if the portfolio day does come together, this course will participate and that will provide students the opportunity to share their understandings they’ve gained in this course. Considering the anxiety that may accompany students, I believe this could serve as a participation style assessing as well, as students should receive valuable feedback from the attendees of portfolio day as the students are asked probing questions for the attendees to better understand.
+Their portfolio will be checked throughout the year and, if the school's portfolio day does come together, this course will participate and that will provide students the opportunity to share their understandings they’ve gained in this course. Considering the anxiety that may accompany students, I believe this could serve as a participation style assessing as well, as students should receive valuable feedback from the attendees, who will be asking probing questions to better understand the material presented by the students.
 
 ### Outcomes
 
